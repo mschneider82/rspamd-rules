@@ -1,0 +1,5 @@
+/^kontakt[-.]?\d+/i
+/^info[-.]?\d+/i
+/^return[-.]?\d+/i
+/^suite[-.]?\d+/i
+/^support[-.]?\d+/i
