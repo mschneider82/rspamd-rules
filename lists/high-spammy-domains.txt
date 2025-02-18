@@ -13,3 +13,4 @@
 /kaufwunder\.shop$/i
 /kleines-spectaculum\.de$/i
 /produkte-des-jahres\.de$/i
+/brandl-naturfotos\.de$/i
