@@ -3,3 +3,13 @@
 /mungaikihanya\.com$/i
 /onlyone\-invest\.com$/i
 /news\.dealscomparer\.com$/i
+/wundershop\.shop$/i
+/fuerstenegger\.shop$/i
+/staerkedirekt\.shop$/i
+/flash24buy\.shop$/i
+/beautywunder\.shop$/i
+/dailydeals24\.shop$/i
+/saxydivers\.de$/i
+/kaufwunder\.shop$/i
+/kleines-spectaculum\.de$/i
+/produkte-des-jahres\.de$/i
