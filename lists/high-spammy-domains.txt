@@ -14,3 +14,6 @@
 /kleines-spectaculum\.de$/i
 /produkte-des-jahres\.de$/i
 /brandl-naturfotos\.de$/i
+/elastisch-senftenberg\.de$/i
+/topmarktplatz\.shop$/i
+/elektronikwelt\.shop$/i
