@@ -17,3 +17,8 @@
 /elastisch-senftenberg\.de$/i
 /topmarktplatz\.shop$/i
 /elektronikwelt\.shop$/i
+/future\.tausenddinge\.shop$/i
+/global\.schnellbestellen\.shop$/i
+/explore\.handelshafen\.shop$/i
+/star\.richardburnsrally\.de$/i
+/connect\.papageien-kronseder\.de$/i
