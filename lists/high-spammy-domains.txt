@@ -22,3 +22,4 @@
 /explore\.handelshafen\.shop$/i
 /star\.richardburnsrally\.de$/i
 /connect\.papageien-kronseder\.de$/i
+/tech\.dealrakete\.shop$/i
