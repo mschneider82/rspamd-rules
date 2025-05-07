@@ -24,3 +24,4 @@
 /connect\.papageien-kronseder\.de$/i
 /tech\.dealrakete\.shop$/i
 /aurora\.kinderspass\.shop$/i
+/spectra\.staerkeeffektiv\.shop$/i
