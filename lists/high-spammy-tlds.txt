@@ -21,7 +21,6 @@
 /\.stream$/i
 /\.top$/i
 /\.trade$/i
-/\.vip$/i
 /\.website$/i
 /\.win$/i
 /\.world$/i
