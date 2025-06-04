@@ -1,0 +1,3 @@
+# List of domains with a good repo
+
+/fitic\.ai$/i
