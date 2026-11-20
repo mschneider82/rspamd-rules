@@ -2,3 +2,4 @@
 
 /fitic\.ai$/i
 /bayernwerk\.de$/i
+/tonestro\.com$/i
