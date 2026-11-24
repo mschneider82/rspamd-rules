@@ -3,3 +3,5 @@
 /fitic\.ai$/i
 /bayernwerk\.de$/i
 /tonestro\.com$/i
+/aok-ident\.de$/i
+/aok\.de$/i
